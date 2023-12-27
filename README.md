@@ -17,8 +17,13 @@
 ![](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F)
 ![](https://img.shields.io/badge/free%20code%20camp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
 
+### 💬 Ask me anything 
+- Lets make the world an even better place and discuss how you apply analytics in your world
+
+
 ### 📬 Find me at
 [![Linkedin: markschoeman](https://img.shields.io/badge/-Mark%20Schoeman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mark-schoeman-4ab24736/)](https://www.linkedin.com/in/mark-schoeman-4ab24736/)
+
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=mark-schoeman&hide=prs,issues,contribs&count_private=true&show_icons=true&hide_border=False)](https://github.com/mark-schoeman)
 
